@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Esakki pandian
-- 👀 I’m interested in ...Web Developmet 
-- 🌱 I’m currently learning Full Stack Development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Web Development 
+- 🌱 I’m currently learning MERN Stack Development 
 - 📫 How to reach me aadhiranesakki96@gmaill.com
 
 <!---
